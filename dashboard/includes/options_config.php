@@ -22,6 +22,7 @@ $email_providers_array = array(
 	'infusionsoft'		=>  'Infusionsoft' ,
 	'madmimi'			=>  'Mad Mimi' ,
 	'mailchimp'         =>  'MailChimp' ,
+	'mailiwick'		=>  'Mailiwick',
 	'mailpoet'			=>  'MailPoet' ,
 	'ontraport'			=>  'Ontraport' ,
 	'salesforce'		=>  'Salesforce' ,
